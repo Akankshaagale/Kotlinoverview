@@ -1,0 +1,64 @@
+Kotlin is a modern, statically typed programming language developed by JetBrains in 2011. It is mainly used for Android application development, but it can also be used for web development, server-side programming and other software applications.
+
+Kotlin is officially supported by Google for Android development.
+1. Features of Kotlin
+1. Simple and easy: Kotlin has readable and easy-to-understand syntax.
+2. Less code: It requires fewer lines of code compared to Java for many tasks.
+3. Java interoperability: Kotlin can work with existing Java code.
+4. Null safety: It helps reduce null pointer exceptions.
+5. Platform independent: Kotlin can run on different platforms, including the JVM.
+6. Object-oriented: It supports classes, objects, inheritance and other OOP concepts.
+7. Open source: Kotlin is freely available to developers.
+
+2. Applications of Kotlin
+ - Android development
+   Used to create Android mobile applications.
+ -Web development
+   Used to build web applications and backend services.
+ -Server-side development
+   Used to develop server applications and APIs.
+
+3. First Kotlin program
+ example.
+fun main() {
+    println("Hello, World!")
+}
+
+
+Output:
+Hello, World!
+
+
+Explanation:
+Keyword	Meaning
+fun	Used to declare a function
+main()	Starting point of the program
+println()	Displays output on the screen
+"Hello, World!"	Text to be printed
+
+4. Example: Addition of two numbers
+fun main() {
+    var a = 10
+    var b = 20
+
+    var sum = a + b
+
+    println("Addition = $sum")
+}
+
+Output:
+Addition = 30
+
+
+5. Important Kotlin topics to learn
+Follow this learning order:
+1. Introduction to Kotlin
+2. Variables and Data Types
+3. Operators
+4. If-Else Statements
+5. Loops
+6. Arrays
+7. Functions
+8. Strings
+9. Classes and Objects
+10. Inheritance and OOP concepts
