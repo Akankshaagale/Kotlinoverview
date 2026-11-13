@@ -1,2 +1,0 @@
-# Kotlinoverview-
-Kotlin overview - Basics 
