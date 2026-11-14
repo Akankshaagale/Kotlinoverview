@@ -5,7 +5,7 @@ class Student {
     fun display() {
         println(name)
         println(age)
-    }
+    s}
 }
 
 fun main() {
