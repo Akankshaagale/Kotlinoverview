@@ -9,4 +9,3 @@ fun main() {
     println("Division: ${a / b}")
     println("Modulus: ${a % b}")
 }
-add
