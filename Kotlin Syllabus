@@ -1,0 +1,166 @@
+Part 1: Kotlin Programming
+Beginner
+1. Introduction to Kotlin
+- What is Kotlin?
+- History of Kotlin
+- Features of Kotlin
+- Advantages of Kotlin
+- Kotlin vs Java
+- Uses of Kotlin
+- Kotlin for Android development
+- Kotlin program structure
+- Installing Kotlin
+- How to run a .kt file
+- Difference between .kt and .kts
+2. Kotlin Basics
+- Variables (var and val)
+- Constants
+- Data types
+- Numbers
+- Strings
+- Characters
+- Boolean
+- Type inference
+- Type conversion
+- Comments
+- String templates
+- User input and output
+3. Operators
+- Arithmetic operators
+- Assignment operators
+- Comparison operators
+- Logical operators
+- Increment and decrement
+- Range operators
+- Membership operators
+4. Conditional Statements
+- If statement
+- If-else statement
+- If-else-if ladder
+- Nested if
+- When expression
+5. Loops
+- For loop
+- While loop
+- Do-while loop
+- Nested loops
+- Break statement
+- Continue statement
+6. Functions
+- Introduction to functions
+- Function declaration
+- Function calling
+- Parameters and arguments
+- Return types
+- Default arguments
+- Named arguments
+- Single-expression functions
+- Lambda functions
+7. Arrays and Collections
+- Arrays
+- Array operations
+- Lists
+- Mutable lists
+- Sets
+- Maps
+- Collection operations
+- Filter
+- Map
+- ForEach
+- Sorting collections
+8. Object-Oriented Programming (OOP)
+- Classes and objects
+- Properties and methods
+- Constructors
+- Primary constructor
+- Secondary constructor
+- Inheritance
+- Polymorphism
+- Encapsulation
+- Abstraction
+- Interfaces
+- Abstract classes
+- Overriding and overloading
+- Data classes
+- Enum classes
+9. Basic Advanced Kotlin
+- Null safety
+- Nullable and non-nullable types
+- Safe call operator
+- Elvis operator
+- Exception handling
+- Try-catch-finally
+- Scope functions (introduction)
+- Coroutines (introduction)
+
+Part 2: Android Development Fundamentals
+10. Introduction to Android
+- What is Android?
+- History of Android
+- Features of Android
+- Android versions
+- Android architecture
+- Android SDK
+- Android API levels
+- Android Runtime (ART)
+- Android vs iOS
+11. Android Studio Basics
+- What is Android Studio?
+- Installing Android Studio
+- Installing JDK
+- Installing Android SDK
+- SDK Manager
+- Device Manager
+- Android Emulator
+- Creating a new project
+- Running an Android application
+- Gradle introduction
+- Logcat
+- Debugging basics
+12. Android Project Structure
+- MainActivity.kt
+- AndroidManifest.xml
+- Gradle scripts
+- build.gradle.kts
+- Settings.gradle.kts
+- Source folders
+- Resource folders
+- Drawable folder
+- Mipmap folder
+- Values folder
+- Strings and colors
+- Themes
+- Package name
+13. Android Core Concepts
+- What is an Activity?
+- Activity lifecycle
+- Application lifecycle
+- What is Context?
+- What is Intent?
+- Explicit Intent
+- Implicit Intent
+- Bundle
+- Android permissions
+- Android application components (introduction)
+14. Traditional Android UI with XML
+- What is XML?
+- XML layout structure
+- TextView
+- EditText
+- Button
+- ImageView
+- CheckBox
+- RadioButton
+- Switch
+- ProgressBar
+- Toast
+- Snackbar
+15. Android Layouts
+- LinearLayout
+- RelativeLayout
+- ConstraintLayout
+- FrameLayout
+- ScrollView
+- Horizontal and vertical orientation
+- Layout width and height
+- Margin and padding
