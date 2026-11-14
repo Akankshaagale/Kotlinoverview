@@ -139,6 +139,7 @@ Part 2: Android Development Fundamentals
 - What is Intent?
 - Explicit Intent
 - Implicit Intent
+- Services
 - Bundle
 - Android permissions
 - Android application components (introduction)
